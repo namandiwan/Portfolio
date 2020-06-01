@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair Display");
+
+#footer {
+  font-family: "Playfair Display" !important;
+  font-size: x-large;
+  font-weight: 300;
+}

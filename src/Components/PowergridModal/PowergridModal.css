@@ -1,0 +1,25 @@
+.btn-primary {
+  border: none !important;
+  background-color: #343a40 !important;
+  font-style: oblique;
+}
+
+.btn-primary:focus {
+  box-shadow: none !important;
+}
+
+.btn:focus {
+  box-shadow: none !important;
+}
+
+.code1 {
+  font-family: sans-serif;
+  font-weight: 300;
+  color: black;
+  font-style: oblique;
+}
+
+#contained-modal-title-vcenter {
+  font-family: sans-serif;
+  font-weight: 300;
+}

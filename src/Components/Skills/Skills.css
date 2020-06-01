@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css?family=OpenSans");
+
+.title1 {
+  font-family: "Open Sans";
+  font-size: xx-large !important;
+  font-weight: 500 !important;
+  margin-top: 45px;
+  text-align: center;
+  font-size: 1.5em !important;
+}
+
+.title2 {
+  font-family: "Open Sans";
+  font-size: xx-large !important;
+  font-weight: 500 !important;
+  margin-top: 45px;
+  font-size: 1.4em !important;
+}
+.title3 {
+  font-family: "Open Sans";
+  font-size: xx-large !important;
+  font-weight: 500 !important;
+  margin-top: 45px;
+  font-size: 1.4em !important;
+  width: 360px !important;
+}
+
+.display-3 {
+  text-align: center;
+  font-size: 3em !important;
+  font-family: "Playfair Display";
+  padding-top: 0px !important;
+}
+
+.my-2,
+.mt-2 {
+  border: 0.4px solid black !important;
+}
+
+.python1 {
+  width: 3em !important;
+  height: 8em !important;
+}
+
+.python {
+  width: 3em !important;
+  height: 8em !important;
+}
+
+.python2 {
+  width: 3em !important;
+  height: 8em !important;
+}
+
+.python3 {
+  width: 3em !important;
+  height: 8em !important;
+}
+
+.python4 {
+  width: 3.5em !important;
+  height: 8em !important;
+  padding: 0px !important;
+}
+
+.python5 {
+  width: 3.5em !important;
+  height: 8em !important;
+}
+
+.python6 {
+  width: 3em !important;
+  height: 8em !important;
+}
+
+.python7 {
+  width: 3.5em !important;
+  height: 8em !important;
+}
+
+.python8 {
+  width: 4em !important;
+  height: 8em !important;
+}
+
+.python9 {
+  width: 3.5em !important;
+  height: 8em !important;
+}
+
+.iconcolor {
+  color: black !important;
+}
+
+.projectjumbo {
+  margin-top: 40px !important;
+  padding-top: 50px !important;
+  padding-bottom: 10px !important;
+}
+
+a:hover {
+  color: gray !important;
+}

@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=OpenSans");
+@import url("https://fonts.googleapis.com/css?family=Playfair Display");
+
+.btn-primary {
+  border: none !important;
+  background-color: #343a40 !important;
+  font-style: normal !important;
+  font-family: "Open Sans" !important;
+}
+
+.btn-primary:focus {
+  box-shadow: none !important;
+}
+
+.btn:focus {
+  box-shadow: none !important;
+}
+
+.code1 {
+  font-family: "Open Sans" !important;
+  font-size: large !important;
+  font-weight: 300 !important;
+  font-style: normal !important;
+}
+
+#contained-modal-title-vcenter {
+  font-family: "Playfair Display" !important;
+  font-weight: 300 !important;
+  font-size: x-large !important;
+}

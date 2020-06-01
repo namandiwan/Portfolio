@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair Display");
+@import url("https://fonts.googleapis.com/css?family=OpenSans");
+
+.display-3 {
+  text-align: center;
+  font-size: 3em !important;
+  font-family: "Playfair Display";
+}
+
+.jumbotron {
+  background-color: #f8f8f8 !important;
+  margin-bottom: 0px !important;
+}
+
+.my-2,
+.mt-2 {
+  border: 0.4px solid black !important;
+}
+
+.about {
+  text-align: center;
+  font-family: "Open Sans" !important;
+  font-weight: 300;
+  font-size: large;
+}
+
+.NavbarAlign {
+  margin-top: -50px !important;
+  margin-bottom: 80px !important;
+}
