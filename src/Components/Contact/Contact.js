@@ -10,7 +10,7 @@ export class Contact extends Component {
   render() {
     return (
       <div>
-        <Jumbotron className="projectjumbo">
+        <Jumbotron id="contact" className="projectjumbo">
           <h1 className="display-3">Contact Me</h1>
           <hr className="my-2" />
           <p>

@@ -9,7 +9,7 @@ const NavbarCode = (props) => {
         <Navbar.Brand href="#home" id="a1">
           About Me
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+        <Navbar.Toggle aria-controls="responsive-navbar-nav" id="collapsed" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
             <Nav.Link href="#experience" id="a1">

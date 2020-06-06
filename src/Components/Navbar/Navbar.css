@@ -4,3 +4,7 @@
   font-family: "Playfair Display";
   font-size: x-large;
 }
+
+#collapsed {
+  width: 16.5% !important;
+}

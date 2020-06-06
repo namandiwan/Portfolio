@@ -4,6 +4,7 @@ import "./Jumbotron.css";
 import NavbarCode from "./../Navbar/Navbar";
 import File from "./Resume.pdf";
 import Button from "react-bootstrap/Button";
+import { AiOutlineDownload } from "react-icons/ai";
 
 const JumbotronCode = (props) => {
   return (
@@ -24,8 +25,7 @@ const JumbotronCode = (props) => {
         <p className="display-3">
           <a href={File} target="_blank" rel="noopener noreferrer" download>
             <Button>
-              <i className="fas fa-download" />
-              Download Resume
+              <AiOutlineDownload /> Resume
             </Button>
           </a>
         </p>
