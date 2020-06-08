@@ -221,3 +221,7 @@
 .fis {
   opacity: 1;
 }
+
+.vertical-timeline::before {
+  background: #f8f8f8 !important;
+}

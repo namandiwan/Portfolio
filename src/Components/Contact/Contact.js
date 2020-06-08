@@ -60,7 +60,9 @@ export class Contact extends Component {
                 </Col>
                 <Col xs={12} md={4} className="comp4">
                   {" "}
-                  <h4>namandiwan91@gmail.com</h4>
+                  <a className="email" href="mailto:namandiwan91@gmail.com">
+                    <h4>namandiwan91@gmail.com</h4>
+                  </a>
                 </Col>
                 <Col xs={0} md={3}></Col>
               </Row>

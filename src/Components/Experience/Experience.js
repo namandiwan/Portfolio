@@ -11,6 +11,11 @@ import AppPowergridModal from "../PowergridModal/PowergridModal";
 import AppPowergrid2Modal from "../Powergrid2Modal/Powergrid2Modal";
 import AppFisModal from "../FisModal/FisModal";
 import $ from "jquery";
+import {
+  VerticalTimeline,
+  VerticalTimelineElement,
+} from "react-vertical-timeline-component";
+import "react-vertical-timeline-component/style.min.css";
 
 export class Experience extends Component {
   componentDidMount() {

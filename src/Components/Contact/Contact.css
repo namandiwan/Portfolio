@@ -114,3 +114,8 @@ a:hover {
   font-style: normal !important;
   font-family: "Open Sans";
 }
+
+.email {
+  color: black;
+  text-decoration: none !important;
+}

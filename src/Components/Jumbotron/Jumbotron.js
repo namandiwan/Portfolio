@@ -2,7 +2,7 @@ import React from "react";
 import { Jumbotron } from "react-bootstrap";
 import "./Jumbotron.css";
 import NavbarCode from "./../Navbar/Navbar";
-import File from "./Resume.pdf";
+import File from "./ProfessionalResume.pdf";
 import Button from "react-bootstrap/Button";
 import { AiOutlineDownload } from "react-icons/ai";
 
@@ -17,10 +17,10 @@ const JumbotronCode = (props) => {
         <p className="about">
           Focused and hardworking individual with underlying interest in Data
           Analytics and Web Development field & has good decision making
-          abilities looking. I want to work on a challenging job profile to
-          enhance my technical skills and knowledge which would further help in
-          becoming an efficient software professional. Apart from that I love to
-          travel and play Cricket.
+          abilities wanting to work on a challenging job profile to enhance
+          technical skills and knowledge which would further help in becoming an
+          efficient software professional. Apart from that other love for
+          travelling and playing Cricket is inevitable.
         </p>
         <p className="display-3">
           <a href={File} target="_blank" rel="noopener noreferrer" download>
